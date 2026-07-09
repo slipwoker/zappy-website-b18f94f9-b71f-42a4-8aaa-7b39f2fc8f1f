@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T11:53:56.439Z",
+  "generated_at": "2026-07-09T12:58:08.199Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "d705651f-c1f8-4e3a-b60d-f6a942c86d53",
+      "slug": "psvk-shly-lyldym-fwhkrp",
+      "name": "פסוק שלי לילדים",
+      "name_translations": {},
+      "description": "<p>בהערות ההזמנה לרשום שם מלא!</p><p>בצורה נכונה ללא שגיאות להתאמה מושלמת אליכם.</p><ul><li>אם יש שני שמות לרשום את שני השמות והעדפה למשפט אחד המורכב מהאות הראשונה של השם הראשון והאות האחרונה של השם שני או שני משפטים לשני השמות.</li><li>לרשום בהערות את פלטת הצבעים שאתם רוצים בעיצוב.(לדוגמה:ורוד פסטל בשילוב לבן)</li></ul>",
+      "short_description": "פסוק עם האות הראשונה והאחרונה של שם הילד/ה בעיצוב אישי המתאים לחדר הילד/ה לתליה מעל מיטת הילד, בשידה בחדר ובכל מקום שתרצו להוסיף עיצוב!\nקדושה, עיצוב, ושמירה בתמונה אחת.",
+      "sku": null,
+      "brand": null,
+      "price": 120,
+      "base_price": 140,
+      "sale_price": 120,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783599665795-fp6l0q.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/psvk-shly-lyldym-fwhkrp",
+      "categories": [],
+      "updated_at": "2026-07-09T12:53:49.281Z"
+    }
+  ]
 }
