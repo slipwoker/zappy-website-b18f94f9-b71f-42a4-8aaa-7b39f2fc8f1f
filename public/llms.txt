@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-b18f94f9.zappy5.app
+https://example.com
 גלו את הפסוק הייחודי שלכם על פי המסורת הקבלית של השל״ה הקדוש. מתנה רוחנית מרגשת שמלווה אתכם בתפילה ובחיבור נשמתי עמוק. היכנסו להתאמה אישית עכשיו.
 
 ### המשמעות
-https://-b18f94f9.zappy5.app/meaning
+https://example.com/meaning
 מסע אל שורשי הנשמה: כיצד הפסוק המקראי שלכם, על פי חכמת הקבלה, הופך למקור הגנה, שפע ותפילה יומית. הציצו אל המשמעות העמוקה והנצחית שמחכה לכם.
 
 ### אירועי מתנה
-https://-b18f94f9.zappy5.app/gift-occasions
+https://example.com/gift-occasions
 מחפשים מתנה יהודית יוצאת דופן? לכל אירוע בחיים – חתונה, לידה או יום הולדת – העניקו פסוק אישי מהתנ״ך שנוגע בלב ומעניק ברכה נצחית. בחרו את הרגע שלכם.
 
 ### גלריה
-https://-b18f94f9.zappy5.app/gallery
+https://example.com/gallery
 הציצו בקולקציית העיצובים המרהיבים שלנו, המשלבת פסוקים אישיים עם אסתטיקה מקודשת. כל פריט הוא יצירת אמנות רוחנית השואבת השראה מאור הנשמה. שאבו השראה עכשיו.
 
 ### צור קשר
-https://-b18f94f9.zappy5.app/contact
+https://example.com/contact
 יש שאלה על המתנה הרוחנית שלכם? צוות אוֹר הַשֵּׁם כאן כדי להדריך אתכם בתהליך מציאת הפסוק האישי והפיכתו למתנה בלתי נשכחת. כתבו לנו ונחזור בהארה.
 
 ### Products
-https://-b18f94f9.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אוֹר הַשֵּׁם
 
 ### Cart
-https://-b18f94f9.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-b18f94f9.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-b18f94f9.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-b18f94f9.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-b18f94f9.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-b18f94f9.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אוֹר הַשֵּׁם
 
 ### Category
-https://-b18f94f9.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אוֹר הַשֵּׁם
 
 ### תודה שפניתם אלינו
-https://-b18f94f9.zappy5.app/thank-you
+https://example.com/thank-you
 אוֹר הַשֵּׁם - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b18f94f9.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b18f94f9.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b18f94f9.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Judaica & Spiritual Gifts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b18f94f9.zappy5.app/sitemap.xml
-- Robots: https://-b18f94f9.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b18f94f9.zappy5.app/llms-full.txt
-- Products (JSON): https://-b18f94f9.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-b18f94f9.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
