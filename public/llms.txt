@@ -1,0 +1,112 @@
+# אוֹר הַשֵּׁם — Generative Engine Optimization Map
+
+> A Judaica and spiritual gifts brand offering personalized Torah verse designs based on the ancient Kabbalistic tradition of finding one's unique biblical verse — one that begins with the first letter of a person's Hebrew name and ends with the last. Rooted in the teachings of the Shelah HaKadosh and Kabbalistic wisdom, the brand blends deep Jewish spirituality with beautiful, meaningful design. The product serves both as a daily spiritual practice (recited during the Amida prayer) and as a timeless, soul-touching gift for any occasion. The brand's tone is warm, sacred, and mystical, emphasizing protection, divine abundance, and eternal connection to one's soul identity.
+
+---
+
+## Pages
+
+### בית
+https://-b18f94f9.zappy5.app
+גלו את הפסוק הייחודי שלכם על פי המסורת הקבלית של השל״ה הקדוש. מתנה רוחנית מרגשת שמלווה אתכם בתפילה ובחיבור נשמתי עמוק. היכנסו להתאמה אישית עכשיו.
+
+### המשמעות
+https://-b18f94f9.zappy5.app/meaning
+מסע אל שורשי הנשמה: כיצד הפסוק המקראי שלכם, על פי חכמת הקבלה, הופך למקור הגנה, שפע ותפילה יומית. הציצו אל המשמעות העמוקה והנצחית שמחכה לכם.
+
+### אירועי מתנה
+https://-b18f94f9.zappy5.app/gift-occasions
+מחפשים מתנה יהודית יוצאת דופן? לכל אירוע בחיים – חתונה, לידה או יום הולדת – העניקו פסוק אישי מהתנ״ך שנוגע בלב ומעניק ברכה נצחית. בחרו את הרגע שלכם.
+
+### גלריה
+https://-b18f94f9.zappy5.app/gallery
+הציצו בקולקציית העיצובים המרהיבים שלנו, המשלבת פסוקים אישיים עם אסתטיקה מקודשת. כל פריט הוא יצירת אמנות רוחנית השואבת השראה מאור הנשמה. שאבו השראה עכשיו.
+
+### צור קשר
+https://-b18f94f9.zappy5.app/contact
+יש שאלה על המתנה הרוחנית שלכם? צוות אוֹר הַשֵּׁם כאן כדי להדריך אתכם בתהליך מציאת הפסוק האישי והפיכתו למתנה בלתי נשכחת. כתבו לנו ונחזור בהארה.
+
+### Products
+https://-b18f94f9.zappy5.app/products
+המוצרים שלנו - אוֹר הַשֵּׁם
+
+### Cart
+https://-b18f94f9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-b18f94f9.zappy5.app/checkout
+תשלום
+
+### Login
+https://-b18f94f9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-b18f94f9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-b18f94f9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-b18f94f9.zappy5.app/product/:slug
+פרטי המוצר - אוֹר הַשֵּׁם
+
+### Category
+https://-b18f94f9.zappy5.app/category/:slug
+מוצרים - אוֹר הַשֵּׁם
+
+### תודה שפניתם אלינו
+https://-b18f94f9.zappy5.app/thank-you
+אוֹר הַשֵּׁם - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b18f94f9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b18f94f9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b18f94f9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אוֹר הַשֵּׁם
+A Judaica and spiritual gifts brand offering personalized Torah verse designs based on the ancient Kabbalistic tradition of finding one's unique biblical verse — one that begins with the first letter of a person's Hebrew name and ends with the last. Rooted in the teachings of the Shelah HaKadosh and Kabbalistic wisdom, the brand blends deep Jewish spirituality with beautiful, meaningful design. The product serves both as a daily spiritual practice (recited during the Amida prayer) and as a timeless, soul-touching gift for any occasion. The brand's tone is warm, sacred, and mystical, emphasizing protection, divine abundance, and eternal connection to one's soul identity.
+
+## Target Audience
+- יהודים המחפשים מתנות עם ערך רוחני ונצחי לעצמם, לילדים, לבני זוג ולחברים
+- מחפשי מתנות רוחניות
+- מעניקי מתנות למשפחה יהודית
+- זוגות יהודים טריים
+- יודאיקה
+- מתנות משמעותיות
+- מתנות
+
+## Industry
+Judaica & Spiritual Gifts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b18f94f9.zappy5.app/sitemap.xml
+- Robots: https://-b18f94f9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b18f94f9.zappy5.app/llms-full.txt
+- Products (JSON): https://-b18f94f9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-b18f94f9.zappy5.app/product-feed.xml
